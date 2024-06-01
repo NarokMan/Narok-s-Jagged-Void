@@ -1,0 +1,111 @@
+﻿  main.c
+C:\GLP\Spaceship1.6\main.c(11,1): warning C4005: 'SDL_HINT_RENDER_VSYNC': macro redefinition
+  C:\GL\SDLbin\include\SDL_hints.h(1689,1):
+  see previous definition of 'SDL_HINT_RENDER_VSYNC'
+  
+C:\GLP\Spaceship1.6\main.c(30,7): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(31,7): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(34,7): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(35,7): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(36,7): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(37,7): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(38,7): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(45,86): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(45,100): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(45,132): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(45,152): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(45,189): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(68,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(68,38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(90,66): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(90,85): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(90,100): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(90,106): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(190,7): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(191,7): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(192,7): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(193,7): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(194,7): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(195,7): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(196,7): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(197,7): warning C4215: nonstandard extension used: long float
+C:\GLP\Spaceship1.6\main.c(236,40): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(237,40): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(240,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(241,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(242,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(270,162): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(271,163): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(290,162): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(291,163): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(325,134): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(338,134): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(339,135): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(340,134): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(341,135): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(349,134): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(350,135): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(358,134): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(359,135): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(360,134): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(361,135): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(376,134): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(377,135): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(385,134): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(386,135): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(387,134): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(388,135): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(403,134): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(404,135): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(415,134): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(416,135): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(255,8): warning C4101: 'temp2': unreferenced local variable
+C:\GLP\Spaceship1.6\main.c(254,8): warning C4101: 'temp1': unreferenced local variable
+C:\GLP\Spaceship1.6\main.c(492,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(492,53): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(492,75): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(492,96): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(493,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(493,53): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(493,75): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(493,96): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(494,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(494,53): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(494,75): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(494,96): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(495,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(495,53): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(495,75): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(495,96): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(560,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GLP\Spaceship1.6\main.c(561,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GLP\Spaceship1.6\main.c(537,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\GLP\Spaceship1.6\main.c(539,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\GLP\Spaceship1.6\main.c(541,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\GLP\Spaceship1.6\main.c(542,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\GLP\Spaceship1.6\main.c(553,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\GLP\Spaceship1.6\main.c(554,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\GLP\Spaceship1.6\main.c(571,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(848,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(850,29): warning C4305: '-=': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(864,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(902,26): warning C4305: '*=': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(904,14): warning C4087: 'clock': declared with 'void' parameter list
+C:\GLP\Spaceship1.6\main.c(916,133): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\GLP\Spaceship1.6\main.c(921,133): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\GLP\Spaceship1.6\main.c(930,14): warning C4087: 'clock': declared with 'void' parameter list
+C:\GLP\Spaceship1.6\main.c(966,33): warning C4305: 'function': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(971,69): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(973,69): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(976,77): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\GLP\Spaceship1.6\main.c(984,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(991,33): warning C4305: '/=': truncation from 'double' to 'float'
+C:\GLP\Spaceship1.6\main.c(577,8): warning C4101: 'asteroidspeed': unreferenced local variable
+C:\GLP\Spaceship1.6\main.c(576,8): warning C4101: 'spin': unreferenced local variable
+C:\GLP\Spaceship1.6\main.c(697,11): warning C4101: 'background_rect': unreferenced local variable
+  Generating code
+  0 of 19 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Spaceship1.6.vcxproj -> C:\GLP\Spaceship1.6\x64\Release\Spaceship1.6.exe
